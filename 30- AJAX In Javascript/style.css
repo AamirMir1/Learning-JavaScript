@@ -1,0 +1,24 @@
+.btn-primary{
+    background-color: cyan;
+    color: white;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.btn-danger{
+    background-color: red;
+    color: white;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.btn-warning{
+    background-color: yellow;
+    color: black;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
